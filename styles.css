@@ -17,7 +17,7 @@ header.header img {
     width: 75px;
 }
 section.top-page {
-    background: url("../FondMainMenu.png");
+    background: url("FondMainMenu.png");
     background-size: cover;
     height: 80vh;
     padding: 25px;
@@ -98,11 +98,11 @@ nav.nav li a {
 }
 
 .img1 {
-    background-image: url(../Image1.png);
+    background-image: url(Image1.png);
 }
 
 .img2 {
-    background-image: url(../Image2.png);
+    background-image: url(Image2.png);
 }
 
 .details {
