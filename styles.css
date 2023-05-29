@@ -251,6 +251,61 @@ nav.nav li a {
     bottom: 0;
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 20px;
+    align-items: flex-end;
+}
+
+#grid-container a {
+    font-size: 75%;
+    text-decoration: none;
+    filter: invert();
+}
+  
+.grid-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+}
+
+.imgg {
+    width: 250px;
+    border-radius: 50%;
+}
+  
+.caption {
+    margin-top: 5px;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.name {
+    font: inherit;
+    font-weight: 750;
+    font-size: 2.5em;
+    text-align: justify;
+    margin: 0px;
+}
+
+.titre {
+    font: inherit;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.bio {
+    font: inherit;
+    font-weight: 350;
+    font-size: 1em;
+    text-align: justify;
+    margin-top: 8px;
+}
+
 .copyright {
     display: flexbox;
     align-items: center;
