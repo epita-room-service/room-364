@@ -94,7 +94,6 @@ nav.nav li a {
     justify-content: stretch;
     font-size: 17px;
 	text-align: justify;
-	text-indent: 2em;
 }
 
 .img1 {
@@ -223,6 +222,11 @@ nav.nav li a {
     text-decoration: none;
     border: darkred solid;
     border-radius: 10px;
+}
+
+.link {
+    color: darkblue;
+    text-decoration: none;
 }
 
 .section4-title {
