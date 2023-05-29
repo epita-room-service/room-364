@@ -223,6 +223,8 @@ nav.nav li a {
     text-decoration: none;
     border: darkred solid;
     border-radius: 10px;
+	margin-top: 5px;
+	margin-bottom:5px;
 }
 
 .link {
