@@ -69,6 +69,8 @@ nav.nav li a {
 
 .description {
     padding: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     background: radial-gradient(rgb(150, 150, 150), #808080)
 }
 
@@ -133,6 +135,8 @@ nav.nav li a {
 
 .download {
     padding: 50px;
+    padding-top: 5px;
+    padding-bottom: 0px;
     background: radial-gradient(rgb(150, 150, 150), #808080)
 }
 
@@ -180,6 +184,8 @@ nav.nav li a {
 
 #ressources {
     padding: 50px;
+    padding-top: 2px;
+    padding-bottom: 5px;
     background: radial-gradient(rgb(150, 150, 150), #808080)
 }
 
@@ -188,6 +194,7 @@ nav.nav li a {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-decoration: none;
     padding: 5px 5px 5px 5px;
 }
 
@@ -223,6 +230,8 @@ nav.nav li a {
 
 .team {
     padding: 50px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     background: radial-gradient(rgb(150, 150, 150), #808080)
 }
 
@@ -242,5 +251,5 @@ nav.nav li a {
     padding: 10px 50px;
     margin-top: 0px;
     margin-bottom: 0px;
-    background: radial-gradient(rgb(150, 150, 150), #808080)
+    background-color: #808080;
 }
