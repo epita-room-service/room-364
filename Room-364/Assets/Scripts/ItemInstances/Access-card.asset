@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb902ff328282f44bd494ec41efb80f, type: 3}
+  m_Name: Access-card
+  m_EditorClassIdentifier: 
+  name: Access card
+  description: A card required to use the elevator
+  visual: {fileID: 21300000, guid: b23f1e34141380842ae0c929491bb8d5, type: 3}
+  prefab: {fileID: 2536101781362604564, guid: 009325fd2774ea647aa1d2888d937c30, type: 3}
+  itemType: 2

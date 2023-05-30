@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb902ff328282f44bd494ec41efb80f, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  name: Axe
+  description: A badly damaged object to be handled with care
+  visual: {fileID: 21300000, guid: 7d8204c6145739746a0bf0f381a11cde, type: 3}
+  prefab: {fileID: 8174404594232115416, guid: 67e95a12bce00df46b741d02bcc2f0ae, type: 3}
+  itemType: 1
